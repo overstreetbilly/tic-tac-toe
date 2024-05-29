@@ -46,6 +46,10 @@ h1 {
   margin: 0 auto 3rem auto;
   color: #3f3b00;
 }
+#game-container h1{
+  color: white;
+  text-align: center;
+}
 
 #game-container {
   max-width: 45rem;
